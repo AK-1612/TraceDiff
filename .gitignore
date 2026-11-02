@@ -16,6 +16,7 @@ env/
 .vscode/
 .idea/
 
-# Local SQLite databases (optional, but keeps repo clean)
+# Runtime database (regenerated on first server start)
+tracediff.db
 *.db-journal
 
